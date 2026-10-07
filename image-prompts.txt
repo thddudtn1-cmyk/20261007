@@ -1,0 +1,157 @@
+================================================================
+ ABC라이프케어 랜딩 페이지 · 이미지 생성 프롬프트 (총 12개)
+================================================================
+
+[사용 방법]
+1. 각 항목의 "PROMPT" 아래 영문 한 줄을 그대로 복사해서
+   Midjourney · DALL·E · Firefly · Stable Diffusion 등에 붙여넣으세요.
+2. 생성한 이미지는 index.html과 같은 폴더의 images/ 폴더에
+   "파일명"에 적힌 이름 그대로 저장하면 페이지에 자동으로 표시됩니다.
+3. Midjourney를 쓴다면 프롬프트 끝에 비율 옵션을 붙이세요. (예: --ar 4:5)
+   다른 도구는 "권장 비율"에 맞춰 이미지 크기를 설정하면 됩니다.
+
+[공통 스타일]  ※ 모든 프롬프트에 이미 들어 있습니다
+soft pastel color palette of sage mint, lavender, peach, sky blue and butter yellow, minimal and clean, airy natural light, calm and warm mood, plenty of negative space, no text, no logo
+
+
+----------------------------------------------------------------
+01. 히어로 메인 이미지
+----------------------------------------------------------------
+파일명   : images/hero.jpg
+권장 비율 : 4:5 (세로형, 예: 1200x1500)
+설명     : 첫 화면 오른쪽. 따뜻한 분위기에서 1:1 상담을 받는 모습
+
+PROMPT:
+A warm one-on-one consultation scene in a bright minimal room, a friendly Korean counselor in her 40s listening attentively to a middle-aged Korean couple across a light wooden table with tea cups and a notebook, gentle smiles, soft pastel color palette of sage mint, lavender, peach, sky blue and butter yellow, minimal and clean, airy natural light from a large window, calm and warm mood, plenty of negative space, editorial lifestyle photography, shallow depth of field, no text, no logo
+
+
+----------------------------------------------------------------
+02. 서비스 - 건강
+----------------------------------------------------------------
+파일명   : images/service-health.jpg
+권장 비율 : 4:3 (예: 1200x900)
+설명     : 건강 카드 썸네일. 세이지 민트 톤
+
+PROMPT:
+Minimal 3D illustration of wellness objects, a green apple, a glass of water, a stethoscope and a small potted plant arranged on a soft sage mint background, rounded clay-like shapes, soft pastel color palette with sage mint as dominant color, minimal and clean, soft studio lighting with gentle shadows, calm and warm mood, plenty of negative space, no text, no logo
+
+
+----------------------------------------------------------------
+03. 서비스 - 재무
+----------------------------------------------------------------
+파일명   : images/service-finance.jpg
+권장 비율 : 4:3 (예: 1200x900)
+설명     : 재무 카드 썸네일. 버터 옐로 톤
+
+PROMPT:
+Minimal 3D illustration of personal finance objects, a stack of rounded coins, a small piggy bank and a simple rising bar chart on a soft butter yellow background, rounded clay-like shapes, soft pastel color palette with butter yellow as dominant color and hints of sage mint, minimal and clean, soft studio lighting with gentle shadows, calm and warm mood, plenty of negative space, no text, no numbers, no logo
+
+
+----------------------------------------------------------------
+04. 서비스 - 가족
+----------------------------------------------------------------
+파일명   : images/service-family.jpg
+권장 비율 : 4:3 (예: 1200x900)
+설명     : 가족 카드 썸네일. 피치 톤
+
+PROMPT:
+Minimal 3D illustration of a small cozy house with a heart shape and three simple rounded figures of a family holding hands, on a soft peach background, rounded clay-like shapes, soft pastel color palette with peach as dominant color and hints of lavender, minimal and clean, soft studio lighting with gentle shadows, calm and warm mood, plenty of negative space, no text, no logo
+
+
+----------------------------------------------------------------
+05. 서비스 - 은퇴
+----------------------------------------------------------------
+파일명   : images/service-retire.jpg
+권장 비율 : 4:3 (예: 1200x900)
+설명     : 은퇴 카드 썸네일. 라벤더 톤
+
+PROMPT:
+Minimal 3D illustration of a peaceful retirement scene, a wooden bench under a small round tree facing a gentle sunrise over soft hills, a straw hat resting on the bench, on a soft lavender background, rounded clay-like shapes, soft pastel color palette with lavender as dominant color and hints of peach, minimal and clean, soft studio lighting, calm and hopeful mood, plenty of negative space, no text, no logo
+
+
+----------------------------------------------------------------
+06. 진행 방식 - STEP 01 신청
+----------------------------------------------------------------
+파일명   : images/step-1-apply.jpg
+권장 비율 : 1:1 (원형으로 잘려서 표시, 예: 800x800)
+설명     : 신청서 작성 아이콘형 이미지
+
+PROMPT:
+Minimal 3D icon of a smartphone showing a simple form with checkmarks and a pencil beside it, centered composition, rounded clay-like shapes, soft pastel color palette with sage mint background, minimal and clean, soft studio lighting with gentle shadows, friendly mood, plenty of negative space around the object, no text, no logo
+
+
+----------------------------------------------------------------
+07. 진행 방식 - STEP 02 전문가 배정
+----------------------------------------------------------------
+파일명   : images/step-2-match.jpg
+권장 비율 : 1:1 (원형으로 잘려서 표시, 예: 800x800)
+설명     : 전문가 매칭 아이콘형 이미지
+
+PROMPT:
+Minimal 3D icon of two rounded profile cards connected by a glowing dotted line with a small check badge in between, representing expert matching, centered composition, rounded clay-like shapes, soft pastel color palette with sky blue background and hints of sage mint, minimal and clean, soft studio lighting with gentle shadows, trustworthy mood, plenty of negative space around the object, no text, no logo
+
+
+----------------------------------------------------------------
+08. 진행 방식 - STEP 03 맞춤 상담
+----------------------------------------------------------------
+파일명   : images/step-3-consult.jpg
+권장 비율 : 1:1 (원형으로 잘려서 표시, 예: 800x800)
+설명     : 1:1 상담 아이콘형 이미지
+
+PROMPT:
+Minimal 3D icon of two rounded speech bubbles overlapping with a small heart, next to a tiny laptop showing a video call, centered composition, rounded clay-like shapes, soft pastel color palette with lavender background and hints of peach, minimal and clean, soft studio lighting with gentle shadows, warm and caring mood, plenty of negative space around the object, no text, no logo
+
+
+----------------------------------------------------------------
+09. 후기 프로필 1 (50대 · 은퇴 상담)
+----------------------------------------------------------------
+파일명   : images/review-1.jpg
+권장 비율 : 1:1 (작은 원형 아바타, 예: 400x400)
+설명     : 후기 작성자 아바타
+
+PROMPT:
+Soft pastel flat illustration avatar of a smiling Korean man in his late 50s with short gray hair and a light cardigan, head and shoulders, simple rounded shapes, sage mint circular background, minimal and clean, calm and warm mood, no text, no logo
+
+
+----------------------------------------------------------------
+10. 후기 프로필 2 (40대 · 가족·재무 상담)
+----------------------------------------------------------------
+파일명   : images/review-2.jpg
+권장 비율 : 1:1 (작은 원형 아바타, 예: 400x400)
+설명     : 후기 작성자 아바타
+
+PROMPT:
+Soft pastel flat illustration avatar of a smiling Korean woman in her 40s with shoulder-length dark hair and a soft blouse, head and shoulders, simple rounded shapes, peach circular background, minimal and clean, calm and warm mood, no text, no logo
+
+
+----------------------------------------------------------------
+11. 후기 프로필 3 (30대 · 건강 상담)
+----------------------------------------------------------------
+파일명   : images/review-3.jpg
+권장 비율 : 1:1 (작은 원형 아바타, 예: 400x400)
+설명     : 후기 작성자 아바타
+
+PROMPT:
+Soft pastel flat illustration avatar of a cheerful Korean man in his 30s with neat short black hair and a casual knit sweater, head and shoulders, simple rounded shapes, sky blue circular background, minimal and clean, calm and warm mood, no text, no logo
+
+
+----------------------------------------------------------------
+12. 상담 신청 영역 이미지
+----------------------------------------------------------------
+파일명   : images/apply-bg.jpg
+권장 비율 : 16:9 (가로형, 예: 1600x900)
+설명     : 신청 폼 왼쪽 안내 영역 하단. 안심되는 분위기의 정물
+
+PROMPT:
+A calm minimal still life on a light wooden desk, a warm cup of herbal tea, an open notebook with a pen, a small vase with eucalyptus leaves and a smartphone lying face down, soft morning sunlight casting gentle shadows, soft pastel color palette of sage mint, lavender, peach, sky blue and butter yellow, minimal and clean, airy and reassuring mood, plenty of negative space, lifestyle product photography, no text, no logo
+
+
+================================================================
+[팁]
+- 서비스 카드(02~05)와 진행 단계(06~08)는 한 세션에서 연달아 생성하면
+  스타일이 더 잘 맞습니다. Midjourney는 --sref 옵션으로 첫 이미지를
+  스타일 기준으로 지정할 수 있습니다.
+- 실사 이미지가 어색하면 01, 12번 프롬프트의 "photography"를
+  "soft 3D illustration"으로 바꾸면 일러스트 톤으로 통일됩니다.
+- 이미지가 없어도 페이지는 파스텔 그라데이션으로 정상 표시됩니다.
+================================================================
